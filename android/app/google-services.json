@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329117870347",
+    "project_id": "hanzaib-collection",
+    "storage_bucket": "hanzaib-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329117870347:android:ff824b3ceed32fab9dda0e",
+        "android_client_info": {
+          "package_name": "com.example.export_hanzala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329117870347-1neflpr2i6v4qnv18v77erl4bvr158a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.export_hanzala",
+            "certificate_hash": "ec12d6fca2a3eba3d38262e878fee5dac2ac092e"
+          }
+        },
+        {
+          "client_id": "329117870347-rv4elf1lfi045boa9ducli12v281o1g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1KloCu3reiH9bv_z3eRgMlp9MsKCe3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329117870347-rv4elf1lfi045boa9ducli12v281o1g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
